@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+  icon: fa-newspaper
+  icon_pack: fas
+  name: News Writing
 - description: 100%
   icon: chart-line
   icon_pack: fas

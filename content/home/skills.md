@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: fa-newspaper
+  icon: pen-alt
   icon_pack: fas
   name: News Writing
 - description: 100%

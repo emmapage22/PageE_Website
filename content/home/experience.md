@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Experience Director
-    company: TEDxFoggyBottom
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    company_logo: tedx.jpeg
-    location: Washington, D.C.
-    date_start: '2019-09-23'
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Managing and overseeing the Experience Team
-        * Collaborating with local community partners to put together interactive and informative exhibits for the event
-        * Communicating with speakers and other team members to improve the event’s planning process
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: Closed Captioner
-    company: Rev.com
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
-    company_logo: rev.png
-    location: Baltimore
-    date_start: '2018-08-01'
-    date_end: ''
-    description: Freelance transcribe videos to make more accessible to the public, Have captioned for companies such as Buzzfeed, MTV, and The Hollywood Reporter
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

@@ -42,16 +42,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/turningthepagee
   label: Follow me on Twitter
   display:
     header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/emmapage22
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/emmapage22/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

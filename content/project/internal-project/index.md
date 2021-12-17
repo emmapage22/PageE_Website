@@ -10,22 +10,12 @@ image:
   caption: REVERB
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 “Three weeks ago, we were out on tour with artists like Tame Impala, Billie Eilish, and Sturgill Simpson … and then all of the sudden, there are no concerts anywhere – basically in the world,” said Chris Spinato, a representative from REVERB, a non-profit organization dedicated to reducing concerts’ footprints on the environment and encouraging people to make environmental and social change.

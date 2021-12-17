@@ -1,20 +1,31 @@
 ---
-title: REVERB: Staying green even in quarantine
-summary: An article written about how environmental organization REVERB adjusted to COVID-19.
+title: REVERB Staying Green Even in Quarantine
+summary: An article about how the music environmental organization REVERB adjusted to initial quarantine.
+date: "2020-04-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: REVERB logo
+  caption: REVERB
   focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: example
 ---
 
 “Three weeks ago, we were out on tour with artists like Tame Impala, Billie Eilish, and Sturgill Simpson … and then all of the sudden, there are no concerts anywhere – basically in the world,” said Chris Spinato, a representative from REVERB, a non-profit organization dedicated to reducing concerts’ footprints on the environment and encouraging people to make environmental and social change.

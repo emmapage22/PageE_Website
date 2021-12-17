@@ -67,8 +67,8 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Emma Page is a fourth-year Journalism student at The George Washington University. Her interests especially include music journalism and video production. Emma is filling her last semester of college with music journalism research and other thought-provoking projects. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+They are also the Experience Director for TEDxFoggyBottom, one of the largest student-run TED events in the country. She oversees her Experience Team in communicating with local non-profits to put on exhibits for the event.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Advanced
   icon: pen-alt
   icon_pack: fas
   name: News Writing
-- description: 100%
-  icon: chart-line
+- description: Panasonic AG-CX350 Camera, Adobe Premiere Pro
+  icon: video
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Video Production
+- description: Nikon DSLR, Adobe Photoshop
   icon: camera-retro
   icon_pack: fas
   name: Photography

@@ -1,41 +1,46 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+title: REVERB: Staying green even in quarantine
+summary: An article written about how environmental organization REVERB adjusted to COVID-19.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: REVERB logo
   focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+“Three weeks ago, we were out on tour with artists like Tame Impala, Billie Eilish, and Sturgill Simpson … and then all of the sudden, there are no concerts anywhere – basically in the world,” said Chris Spinato, a representative from REVERB, a non-profit organization dedicated to reducing concerts’ footprints on the environment and encouraging people to make environmental and social change.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Thanks to COVID-19, music venues all around the world have temporarily shut down. Artists, including those partnering with REVERB, have postponed their tours.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+REVERB partners with artists, festivals, and venues to ditch single-use plastic at events and connect fans face-to-face with organizations that are “working to create a better future for people and the planet,” according to their website.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Without these live shows and face-to-face interactions, REVERB has had to get creative.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+“Like everybody else, we’re just trying to figure out what this means for us in the short term, in the long term, and figuring out how to continue to do our work in some capacity, even if it’s not at live shows,” Spinato said.
+
+The music industry is at a standstill, uncertain how to move forward without answers.
+
+REVERB is staying flexible, checking in with artist partners who are currently looking to state and federal guidance, as well as guidance from the CDC, Spinato said.
+
+“We’re doing whatever we can to make sure that we have staff available and resources available so that when music gets going again, and it will get going again, we’re ready and able to be a partner, supporting them as they all work to try to reduce the environmental impact of live music,” Spinato said.
+
+In the organization’s 16 years, it has prepared for and encountered single tour and festival cancellations due to bad weather or a sick musician, but agrees that this pandemic is unprecedented.
+
+“We’re trying to figure out how to start talking about environmental issues again, because not only do we have this pandemic, but the reality is that climate change is still there. It’s still a problem,” Spinato said.
+
+REVERB is tackling these issues like climate change by staying positive, motivated, and engaged.
+
+“We’re still trying to figure out how to best connect with people,” Spinato said.
+
+One of the ways REVERB is reaching out during this pandemic is by partnering with a group called Goggles for Docs, asking for donations of used ski goggles to deliver to frontline health care workers around the country that currently don’t have protection for their eyes.
+
+A series of artists will perform on REVERB’s Facebook page through Facebook Live to spread awareness of this project.

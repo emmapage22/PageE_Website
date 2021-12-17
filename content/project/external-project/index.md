@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://www.youtube.com/watch?v=5POdQTd_Ovs
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: thumbnail
   focal_point: Smart
 ---

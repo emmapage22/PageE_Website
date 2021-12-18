@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Experience Director
+    company: TEDxFoggyBottom
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: Washington, D.C.
+    date_start: '2019-09-23'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Overseeing Experience Team
+        * Collaborating with local community partners to put together interactive and informative exhibits for the event
+        * Communicating with speakers and other team members to improve the event’s planning process
         
   - title: Professor of Semiconductor Physics
     company: University X

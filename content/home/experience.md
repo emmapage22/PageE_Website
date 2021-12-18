@@ -45,6 +45,13 @@ experience:
     date_end: ''
     description: Transcribe videos to make accessible for the public, have captioned for companies including Buzzfeed, MTV, and the Hollywood Reporter
 
+  - title: Retail Associate
+    company: Party City
+    location: Baltimore, MD
+    date_start: '2017-09-20'
+    date_end: '2017-11-13'
+    description: Hired to help during sales' busiest season, assisting customers on the sales floor and with general store upkeep, including cash register
+
 design:
   columns: '2'
 ---

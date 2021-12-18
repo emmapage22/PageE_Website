@@ -36,14 +36,14 @@ experience:
         * Collaborating with local community partners to put together interactive and informative exhibits for the event
         * Communicating with speakers and other team members to improve the event’s planning process
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Closed Captioner
+    company: Rev.com
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo:
+    location: Freelance
+    date_start: '2018-08-01'
+    date_end: ''
+    description: Transcribe videos to make accessible for the public, have captioned for companies including Buzzfeed, MTV, and the Hollywood Reporter
 
 design:
   columns: '2'

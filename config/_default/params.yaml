@@ -20,28 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: emmapage22@gwu.edu
+phone: 410 992 2058
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: GWU School of Media and Public Affairs
+  city: Foggy Bottom
+  region: Washington, D.C.
+  postcode: '20052'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-appointment_url: 'https://calendly.com'
+  latitude: '38.8998'
+  longitude: '-77.0462'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
 
 # Site header
 

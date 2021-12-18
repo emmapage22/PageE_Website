@@ -25,19 +25,19 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.dataquest.io/
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataQuest
-  organization_url: https://www.dataquest.io/
-  title: 'Intro to Programming in R'
+  date_start: "2016-05-01"
+  description: Attended the 2016 conference that enhanced leadership and service skills
+  organization: HOBY
+  organization_url: https://www.hoby.org/
+  title: Hugh O'Brien Youth Leadership Program
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2017-06-01"
+  description: Helped restore a home destroyed by Hurricane Sandy, performed tasks such as painting, mudding, sanding, flooring, and moving heavy furniture, and interacted with homeowners to create a positive experience
+  organization: SBP
+  organization_url: 
+  title: St. Bernard Project Service Immersion
   url: ""
 
 design:
